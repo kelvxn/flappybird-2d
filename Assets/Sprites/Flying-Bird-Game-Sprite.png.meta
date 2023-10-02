@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: 1470b45f30d49b94f96bd83ac0f1e09b
+timeCreated: 1494819036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gray0
+    21300002: Gray1
+    21300004: Gray2
+    21300006: Black0
+    21300008: Black1
+    21300010: Black2
+    21300012: Flying-Bird-Game-Sprite_6
+    21300014: Flying-Bird-Game-Sprite_7
+    21300016: Gray3
+    21300018: Gray4
+    21300020: Gray5
+    21300022: Black3
+    21300024: Black4
+    21300026: Black5
+    21300028: Flying-Bird-Game-Sprite_14
+    21300030: Flying-Bird-Game-Sprite_15
+    21300032: Flying-Bird-Game-Sprite_16
+    21300034: Flying-Bird-Game-Sprite_17
+    21300036: Flying-Bird-Game-Sprite_18
+    21300038: Flying-Bird-Game-Sprite_19
+    21300040: Flying-Bird-Game-Sprite_20
+    21300042: Flying-Bird-Game-Sprite_21
+    21300044: Flying-Bird-Game-Sprite_22
+    21300046: Gray6
+    21300048: Gray7
+    21300050: Gray8
+    21300052: Black6
+    21300054: Black7
+    21300056: Black8
+    21300058: Flying-Bird-Game-Sprite_29
+    21300060: Flying-Bird-Game-Sprite_30
+    21300062: Flying-Bird-Game-Sprite_31
+    21300064: Flying-Bird-Game-Sprite_32
+    21300066: Flying-Bird-Game-Sprite_33
+    21300068: Flying-Bird-Game-Sprite_34
+    21300070: Flying-Bird-Game-Sprite_35
+    21300072: Flying-Bird-Game-Sprite_36
+    21300074: Flying-Bird-Game-Sprite_37
+    21300076: Flying-Bird-Game-Sprite_38
+    21300078: Flying-Bird-Game-Sprite_39
+    21300080: Flying-Bird-Game-Sprite_40
+    21300082: Flying-Bird-Game-Sprite_41
+    21300084: Flying-Bird-Game-Sprite_42
+    21300086: Flying-Bird-Game-Sprite_43
+    21300088: Flying-Bird-Game-Sprite_44
+    21300090: Flying-Bird-Game-Sprite_45
+    21300092: Flying-Bird-Game-Sprite_46
+    21300094: Flying-Bird-Game-Sprite_47
+    21300096: Flying-Bird-Game-Sprite_48
+    21300098: Flying-Bird-Game-Sprite_49
+    21300100: Flying-Bird-Game-Sprite_50
+    21300102: Flying-Bird-Game-Sprite_51
+    21300104: Flying-Bird-Game-Sprite_52
+    21300106: Flying-Bird-Game-Sprite_53
+    21300108: Flying-Bird-Game-Sprite_54
+    21300110: Flying-Bird-Game-Sprite_55
+    21300112: Flying-Bird-Game-Sprite_56
+    21300114: Flying-Bird-Game-Sprite_57
+    21300116: Flying-Bird-Game-Sprite_58
+    21300118: Flying-Bird-Game-Sprite_59
+    21300120: Flying-Bird-Game-Sprite_60
+    21300122: Flying-Bird-Game-Sprite_61
+    21300124: Flying-Bird-Game-Sprite_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gray0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 307
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 308
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 307
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 306
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 307
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 307
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 297
+        width: 124
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 299
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 285
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 285
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 282
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 283
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 283
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 273
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 277
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 277
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 278
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 277
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 278
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 278
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 278
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 278
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 256
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 258
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gray8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 254
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 250
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 210
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 206
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 205
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 206
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 76
+        width: 223
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 173
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 184
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 179
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 155
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 162
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 158
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 134
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 139
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 98
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 106
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 66
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 67
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 76
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 80
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 77
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 43
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 50
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flying-Bird-Game-Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 52
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
